@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appcast>
   <item>
-    <version>2.3.0</version>
-    <url>https://github.com/eerie69/NexusTrader-Releases/releases/download/PoE1-v2.3.0/NexusTrader_PoE1_v2.3.0.zip</url>
+    <version>2.3.1</version>
+    <url>https://github.com/eerie69/NexusTrader-Releases/releases/download/PoE1-v2.3.1/NexusTrader_PoE1_v2.3.1.zip</url>
     <notes>Initial PoE1 release with stability improvements.</notes>
-    <published>2025-11-07T00:00:00Z</published>
+    <published>2025-11-08T00:00:00Z</published>
   </item>
 </appcast>
